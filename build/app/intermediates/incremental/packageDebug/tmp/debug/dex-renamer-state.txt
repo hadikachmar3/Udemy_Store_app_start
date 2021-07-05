@@ -1,0 +1,4 @@
+#Mon Jul 05 15:15:24 EEST 2021
+base.0=C\:\\Users\\HadiK3\\Downloads\\Udemy_Store_app-master\\Udemy_Store_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
