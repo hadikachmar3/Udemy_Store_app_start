@@ -15,6 +15,11 @@ Shop App made by Flutter
 
 [![download it from google playstore](https://user-images.githubusercontent.com/38382273/121786767-b676bf80-cbca-11eb-8ebb-604d79d6af84.png)](https://play.google.com/store/apps/details?id=com.hadik3n.shop_app&hl=en&gl=US "download it from google playstore - Click to View!")
 
+## Flutter helper kit 👇
+
+[![Flutter helper kit](https://user-images.githubusercontent.com/38382273/124526411-624aae00-de0b-11eb-9637-ae1183c83b49.jpg)](https://play.google.com/store/apps/details?id=com.hadik.flutterer&hl=en&gl=US "Flutter helper kit - Click to View!")
+
+
 
 
 
